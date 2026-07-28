@@ -2,6 +2,7 @@
 
 这是“蜀锦数字库”可行性原型的 GitHub Pages 发布仓库。
 
+- 公开地址：https://john21orlando.github.io/shujin-digital-library/
 - 网站内容为前端演示，不包含真实 AI、数据库或安全认证。
 - 演示账号显示在登录页。
 - 纹样图形是 CSS 占位示意，不代表真实馆藏。
